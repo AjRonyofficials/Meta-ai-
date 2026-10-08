@@ -1,0 +1,6 @@
+{
+  "name": "AP-SM Suite | Siam Team 143 Tools & License Hub",
+  "description": "Complete responsive web dashboard and tool suite for SIAM-TEAM-143/AP-SM: Token Approval manager, 2FA/TOTP authenticator, Temp Mail & OTP verification, Social generator, and Termux terminal simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
