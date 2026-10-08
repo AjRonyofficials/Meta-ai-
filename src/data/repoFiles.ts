@@ -27,7 +27,11 @@ export const REPO_FILES: RepoFile[] = [
 SM~(10453=(SIAM)=10453)~SM
 rakip vai admin 1
 SM~(10462=(SIAM)=10462)~SM
+# Owner / User 12015 VIP Approved
+SM~(12015=(SIAM)=12015)~SM
 #_________/paid user\\________
+# User 12015 Lifetime VIP Active
+SM~(12015=(SIAM)=12015)~SM
 #roki  YOUR KEY >> SM~(10452=(SIAM)=10452)~SM 1daymeta tols
 SM~(10350=(SIAM)=10350)~SM ====> SM~(10352=(SIAM)=10352)~SM =>>>>>3 days $2.50 =>>>24 =>>> 27 last
 SM~(10361=(SIAM)=10361)~SM  30 days 600 ewut>> SM~(10481=(SIAM)=10481)~SM ====>> 3 sep =====> 20 sep last`,
@@ -41,7 +45,9 @@ SM~(10361=(SIAM)=10361)~SM  30 days 600 ewut>> SM~(10481=(SIAM)=10481)~SM ====>>
     descriptionBn: 'আপডেট মডিউল এবং ওটিপি ভেরিফিকেশন দ্বারা চেক করা অনুমোদন ফাইল।',
     content: `#________________/admin\\_______________#
 SM~(10453=(SIAM)=10453)~SM
+SM~(12015=(SIAM)=12015)~SM
 #_______________/paid user_____________#####
+SM~(12015=(SIAM)=12015)~SM Lifetime Approved
    Evann 5$ SM~(10689=(SIAM)=10689)~SM  ==> 6-last 12
 SM~(10375=(SIAM)=10375)~SM_____ 1 day free
 SM~(12015=(SIAM)=12015)~SM
@@ -186,6 +192,18 @@ Exported Symbols:
 ];
 
 export const INITIAL_APPROVED_KEYS: ApprovalEntry[] = [
+  {
+    id: 'k_owner_12015',
+    rawKey: 'SM~(12015=(SIAM)=12015)~SM',
+    keyNumber: '12015',
+    type: 'admin',
+    name: 'Owner (12015 VIP)',
+    duration: 'Lifetime VIP (Unlimited)',
+    durationBn: 'লাইফটাইম ভিআইপি (স্থায়ী অনুমোদন)',
+    price: 'Owner VIP',
+    expiryNote: 'Permanent Full Access & Execution',
+    sourceFile: 'Approval.txt',
+  },
   {
     id: 'k1',
     rawKey: 'SM~(10453=(SIAM)=10453)~SM',

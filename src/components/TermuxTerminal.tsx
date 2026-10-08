@@ -27,11 +27,11 @@ const SIAM_BANNER = `\x1b[32m
   |____/___/_/   \\_\\_|  |_| |____/|_|  |_|
 \x1b[0m
 \x1b[36m  +-------------------------------------------------+
-  |  TOOL NAME : SIAM TEAM AP-SM V7.0 (ACTIVE)      |
-  |  AUTHOR    : SIAM KHAN & RAKIB VAI              |
-  |  GITHUB    : https://github.com/SIAM-TEAM-143   |
-  |  TELEGRAM  : @SMSIAMSM                          |
-  |  STATUS    : \x1b[32mTOOL IS ON (ONLINE)\x1b[36m                |
+  |  TOOL NAME : ISMAIL AP-SM V7.0 (ACTIVE)         |
+  |  AUTHOR    : ISMAIL (12015 VIP OWNER)           |
+  |  GITHUB    : https://github.com/ismailislamrony1|
+  |  APPROVAL  : \x1b[33mSM~(12015=(SIAM)=12015)~SM\x1b[36m         |
+  |  STATUS    : \x1b[32mTOOL IS ON (ONLINE & APPROVED)\x1b[36m     |
   +-------------------------------------------------+\x1b[0m`;
 
 export const TermuxTerminal: React.FC<TermuxTerminalProps> = ({ lang }) => {
@@ -137,10 +137,12 @@ export const TermuxTerminal: React.FC<TermuxTerminalProps> = ({ lang }) => {
 
     if (lower === 'approval' || lower === 'cat approval.txt' || lower === 'cat apvl.txt') {
       addLine('output', `#_________/Admin\\________
+SM~(12015=(SIAM)=12015)~SM (Owner Ismail VIP - Lifetime Approved)
 SM~(10453=(SIAM)=10453)~SM (Siam Super Admin)
 SM~(10462=(SIAM)=10462)~SM (Rakib vai admin 1)
 
 #_________/paid user\\________
+SM~(12015=(SIAM)=12015)~SM (Ismail VIP Active)
 SM~(10452=(SIAM)=10452)~SM (Roki - 1day meta tols)
 SM~(10350=(SIAM)=10350)~SM (3 days $2.50)
 SM~(10352=(SIAM)=10352)~SM (3 days $2.50)
